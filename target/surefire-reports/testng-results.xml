@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-06T20:16:28 IST" name="Suite" finished-at="2022-06-06T20:16:31 IST" duration-ms="3061">
+    <groups>
+    </groups>
+    <test started-at="2022-06-06T20:16:28 IST" name="Test" finished-at="2022-06-06T20:16:31 IST" duration-ms="3061">
+      <class name="com.TestLayer.EndToEndPIMPageFlow">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:28 IST" name="setUP" finished-at="2022-06-06T20:16:30 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validatePOSTReqStatusCode()[pri:1, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:30 IST" name="validatePOSTReqStatusCode" finished-at="2022-06-06T20:16:30 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePOSTReqStatusCode -->
+        <test-method signature="validatePOSTReqStatusLine()[pri:2, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:30 IST" name="validatePOSTReqStatusLine" finished-at="2022-06-06T20:16:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePOSTReqStatusLine -->
+        <test-method signature="validatePOSTReqContentHeader()[pri:3, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:30 IST" name="validatePOSTReqContentHeader" finished-at="2022-06-06T20:16:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePOSTReqContentHeader -->
+        <test-method signature="validatePOSTReqCaptureId()[pri:4, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:30 IST" name="validatePOSTReqCaptureId" finished-at="2022-06-06T20:16:31 IST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePOSTReqCaptureId -->
+        <test-method signature="getNewlyCreatedUser()[pri:5, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="getNewlyCreatedUser" finished-at="2022-06-06T20:16:31 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNewlyCreatedUser -->
+        <test-method signature="validateStatusLineForGet()[pri:6, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="validateStatusLineForGet" finished-at="2022-06-06T20:16:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusLineForGet -->
+        <test-method signature="validateResponseBody()[pri:7, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="validateResponseBody" finished-at="2022-06-06T20:16:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseBody -->
+        <test-method signature="validateContentTypeHeaderUsingGet()[pri:8, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="validateContentTypeHeaderUsingGet" finished-at="2022-06-06T20:16:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContentTypeHeaderUsingGet -->
+        <test-method signature="updateWholeEntity()[pri:9, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="updateWholeEntity" finished-at="2022-06-06T20:16:31 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateWholeEntity -->
+        <test-method signature="validateBody()[pri:10, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="validateBody" finished-at="2022-06-06T20:16:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBody -->
+        <test-method signature="validateContentTypeHeaderUsingPut()[pri:11, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="validateContentTypeHeaderUsingPut" finished-at="2022-06-06T20:16:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContentTypeHeaderUsingPut -->
+        <test-method signature="validateUpdateEntity()[pri:12, instance:com.TestLayer.EndToEndPIMPageFlow@2ddc9a9f]" started-at="2022-06-06T20:16:31 IST" name="validateUpdateEntity" finished-at="2022-06-06T20:16:31 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateEntity -->
+      </class> <!-- com.TestLayer.EndToEndPIMPageFlow -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
